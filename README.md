@@ -20,7 +20,7 @@ Submissions are evaluated on micro F1 Score between the predicted and observed t
 
  
 # Leaderboard:
-Private LB: 43/364 </br
+Private LB: 43/364 </br>
 Public LB: 53/364
 
 
